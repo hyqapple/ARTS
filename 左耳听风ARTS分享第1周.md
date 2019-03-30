@@ -1,4 +1,4 @@
-﻿@[TOC](左耳听风ARTS分享第1周)
+左耳听风ARTS分享第1周
 
 > 每周完成一个ARTS： 每周至少做一个 leetcode的算法题、阅读并点评至少一篇英文技术文章、学习至少一个技术技巧、分享一篇有观点和思考的技术文章。（也就是Algorithm、Review、Tip、Share 简称ARTS）
 
